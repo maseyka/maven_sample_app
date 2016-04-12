@@ -1,3 +1,3 @@
-# maven_sample_app
+# fantastically simple app 
 
 mvn clean package 
